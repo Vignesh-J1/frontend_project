@@ -1,5 +1,5 @@
-Click the **index.html** file to open the login page
-login page,home page and detailed view page has splitted into 3 files for each file there is a seperate css and javascript file
+Click the **index.html** file to open the login page.
+Login page,Home page and Detailed view page has splitted into 3 files for each file there is a seperate css and javascript file
 
 This application is designed to perform the following tasks:
 
